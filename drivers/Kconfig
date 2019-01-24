@@ -198,4 +198,6 @@ source "drivers/htc_power_debug/Kconfig"
 
 source "drivers/htc_ril/Kconfig"
 
+source "drivers/dts_eagle/Kconfig"
+
 endmenu
